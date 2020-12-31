@@ -1,2 +1,2 @@
 # Snake
-Snake game in python
+Snake game in python. Sentdex Tutorial
